@@ -32,7 +32,3 @@ FFmpeg is developed by the FFmpeg project; this is an unofficial GQA build. FFmp
 ## Previous releases
 
 The [October 15, 2026 release](https://github.com/gqa-gmbh/GQA-FFmpeg-Builds/releases/tag/ffmpeg-9.0.2-gqa-20261015) is retained as a historical, superseded build. Its configuration does not describe the current Opus release.
-
-## Publishing
-
-For the repeatable release process, approved release-note structure, and publishing helper, see [RELEASING.md](RELEASING.md) and [RELEASE-TEMPLATE.md](RELEASE-TEMPLATE.md).
