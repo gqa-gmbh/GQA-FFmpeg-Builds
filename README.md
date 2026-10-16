@@ -8,7 +8,7 @@ The current release is FFmpeg 9.0.2 with libopus 1.6.1: Windows x64 shared libra
 
 The runtime contains no AAC encoder or decoder and no software H.264, HEVC or AV1 encoder or decoder. Its selected components support Flight Recorder's capture, replay, screenshot, probing and media-packaging paths. Hardware encoder availability depends on the installed GPU and driver.
 
-Open the [immutable October 16, 2026 release](https://github.com/gqa-gmbh/GQA-FFmpeg-Builds/releases/tag/ffmpeg-9.0.2-gqa-opus-20261016) to download the runtime and its matching source/build package:
+Open the [October 16, 2026 release](https://github.com/gqa-gmbh/GQA-FFmpeg-Builds/releases/tag/ffmpeg-9.0.2-gqa-opus-20261016) to download the runtime and its matching source/build package. Its tag and published assets are immutable:
 
 | Asset | Download | SHA-256 |
 | --- | --- | --- |
